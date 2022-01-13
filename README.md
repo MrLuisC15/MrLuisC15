@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/MrLuisC15">
-  ![MrLuisC15 GitHub stats](https://github-readme-stats.vercel.app/api?username=MrLuisC15&show_icons=true)
+  ![MrLuisC15 GitHub stats](https://github-readme-stats.vercel.app/api?username=MrLuisC15&show_icons=true) -
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrLuisC15)
 </div>
 <div style="display: inline_block"><br>
