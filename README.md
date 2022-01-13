@@ -20,6 +20,6 @@
 
   ##
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://gist.githubusercontent.com/MrLuisC15/991b11610dae6a624723d689268cf951/raw/9c67525833081455d5607868fabd46fd2087b335/snake.svg)
  
 
