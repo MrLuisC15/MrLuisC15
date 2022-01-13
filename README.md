@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/MrLuisC15">
-  ![MrLuisC15's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrLuisC15&show_icons=true&theme=tokyonight)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLuisC15&layout=compact&langs_count=16&theme=tokyonight"/>
+  ![MrLuisC15's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrLuisC15&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrLuisC15)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="LuisC-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
