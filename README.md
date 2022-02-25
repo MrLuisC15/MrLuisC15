@@ -9,7 +9,6 @@
   <img align="center" alt="LuisC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LuisC-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="LuisC-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
-  <img align="center" alt="LuisC-Ang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
 </div>
   
   ##
